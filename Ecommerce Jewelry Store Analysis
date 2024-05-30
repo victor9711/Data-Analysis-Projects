@@ -1,0 +1,9 @@
+Project Description
+This project aims to analyze the sales data of a jewelry store to identify potential improvements and develop actionable strategies for enhancing business performance. The data consists of various attributes related to orders, including order datetime, order ID, category alias, brand ID, price in USD, user ID, gender, color, metal type, and gemstone materials.
+
+Objectives
+Data Cleaning and Preparation: Clean and prepare the data for analysis by handling missing values, correcting inconsistencies, and standardizing formats.
+Descriptive Analysis: Perform descriptive analysis to understand the basic characteristics of the data, such as total sales, average order value, and distribution of sales across different categories, brands, and gemstones.
+User Behavior Analysis: Analyze user buying behavior to identify patterns, such as the percentage of repeated buyers, the frequency of purchases, and the diversity of items purchased.
+Sales Ranking: Rank the sales based on various attributes such as gemstone materials, metal types, and brands to identify top-performing categories.
+Potential Improvements: Use the insights gained from the analysis to suggest potential improvements in marketing, inventory management, and customer engagement strategies.
